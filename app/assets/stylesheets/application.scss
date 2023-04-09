@@ -29,6 +29,14 @@ form.button_to {
   display: inline;
 }
 
+.loggedin {
+  padding: 15px;
+  line-height: 20px;
+  color: #f2e9e9;
+  position: relative;
+  display: block;
+}
+
 .hero {
   height: 75vh;
   background-image: url("/images/hero_header.jpg");
@@ -111,3 +119,13 @@ form.button_to {
 .text-danger {
   color: #f38792 !important;
 }
+
+
+a {
+  color: #d9dde3;
+  text-decoration: none;
+  padding: 15px;
+  align-content: center;
+}
+
+
