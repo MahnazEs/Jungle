@@ -29,3 +29,30 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+
+
+
+## run Cypress
+bin/rails cypress:open
+
+## run App
+bin/rails s -b 0.0.0.0
+
+## User and Password
+http_basic_authenticate_with name: "Jungle", password: "book"
+
+## some photo of the App
+
+!["First page"]()
+
+!["Product page"]()
+
+!["Product description page"]()
+
+!["My cart page"]()
+
+!["Login page"]()
+
+!["Cypress test page"]()
+
