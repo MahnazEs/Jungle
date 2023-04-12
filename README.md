@@ -44,15 +44,27 @@ http_basic_authenticate_with name: "Jungle", password: "book"
 
 ## some photo of the App
 
+
 !["First page"](https://github.com/MahnazEs/Jungle/blob/master/docs/first%20page.PNG?raw=true)
+
+
 
 !["Product page"](https://github.com/MahnazEs/Jungle/blob/master/docs/product.PNG?raw=true)
 
+
+
 !["Product description page"](https://github.com/MahnazEs/Jungle/blob/master/docs/product%20description.PNG?raw=true)
+
+
 
 !["My cart page"](https://github.com/MahnazEs/Jungle/blob/master/docs/my%20cart%20page.PNG?raw=true)
 
+
+
 !["Login page"](https://github.com/MahnazEs/Jungle/blob/master/docs/login%20page.PNG?raw=true)
 
+
+
 !["Cypress test page"](https://github.com/MahnazEs/Jungle/blob/master/docs/cypress%20test.PNG?raw=true)
+
 
